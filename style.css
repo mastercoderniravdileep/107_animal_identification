@@ -1,0 +1,35 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: aquamarine;
+}
+
+.header_div {
+    background-color: rgb(199, 140, 140);
+    color: rgb(150, 161, 164);
+}
+.header_div p {
+    font-family: 'Bebas Neue', sans-serif;
+    color: rgb(142, 190, 174);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Oswald', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(245, 201, 146);
+    background-color: rgb(115, 115, 156);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 2;
+    text-align: center;
+}
